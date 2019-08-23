@@ -1,0 +1,19 @@
+{
+  "name": "cleandirectory",
+  "version": "1.0.0",
+  "description": "script pour netoyer un dossier",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fzed51/cleandirectory.git"
+  },
+  "author": "Fabien Sanchez <fzed51+git@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fzed51/cleandirectory/issues"
+  },
+  "homepage": "https://github.com/fzed51/cleandirectory#readme"
+}
